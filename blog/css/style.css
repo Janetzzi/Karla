@@ -1,0 +1,53 @@
+body{
+   fount-family:Arial, Nevetica, sans-serif;
+   margin: 0 auto;
+   width: 100%;
+
+}
+header{
+ background: #CECEF6;
+
+
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+    }
+
+div {
+    background-color: lightblue;
+
+}
+section{
+   width: 60%;
+   float: left;
+   background: #FFFFFF;
+   text-align: center;
+}
+
+aside{
+  width: 30%;
+  float: left;
+background: #F8E0F7;
+}
+
+footer{
+   
+   clear: both;
+    background: #CECEF6;
+    height: 30%;
+}
+
+nav {
+    background:#FF6677;
+    border-radius:0.5em;
+    margin: 0.5em auto;
+    max-width:990px;
+    padding:0.25em;
+    text-align:center;    
+}
+
+
+
+
